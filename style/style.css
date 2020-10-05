@@ -1,0 +1,12 @@
+*{
+    background-color: blue;
+}
+
+h1 {
+    text-align: end;
+    background-color:whitesmoke;
+    font-size: 75px;
+}
+[href] {
+    color: turquoise;
+}
